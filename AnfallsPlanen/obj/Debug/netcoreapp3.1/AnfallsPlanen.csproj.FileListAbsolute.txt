@@ -1,0 +1,13 @@
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.csprojAssemblyReference.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.AssemblyInfoInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.AssemblyInfo.cs
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.csproj.CoreCompileInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.exe
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.deps.json
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.runtimeconfig.json
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.runtimeconfig.dev.json
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\bin\Debug\netcoreapp3.1\AnfallsPlanen.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\SänkaSkepp - Edvin\AnfallsPlanen\obj\Debug\netcoreapp3.1\AnfallsPlanen.genruntimeconfig.cache
